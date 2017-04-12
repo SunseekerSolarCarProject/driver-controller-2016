@@ -1,0 +1,1 @@
+"./can.obj" "./main.obj" "./spi.obj" "../lnk_msp430f135.cmd" -llibc.a 

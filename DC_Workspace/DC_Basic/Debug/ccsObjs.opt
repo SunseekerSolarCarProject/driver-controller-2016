@@ -1,0 +1,1 @@
+"./tri63v4.obj" "./spi.obj" "./can.obj" "../lnk_msp430f135.cmd" -l"libc.a" 
